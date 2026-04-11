@@ -11,6 +11,7 @@ i was confused about my image was not showing at first. later i realized the fil
 1hour some min cause i was watching videos on youtube
 ## folder pushed
 week1/day1-about-me
+
 Day 2 - Semantic HTML and Forms
 Date: 2026/04/10
 ## what i built
@@ -23,3 +24,16 @@ that form part confused me like how it sends data and also how to make the dropd
 i spent more than an hour 30 min because i had to watch videos on how to do it before implementing
 ## folder pushed
 week1/day2-forms/
+
+Day 3 - HTML Tables
+Date: 2026/04/10
+## what i built
+i created a weekly schedule table using html
+## what i learned
+i learned how to use tables <tr>, <th>, and <td>
+## what confused me
+was able to understand table structure and unable to use the tables tags had to watch as many videos and ask my chat gpt questions for clearification
+## time spent
+was unable to keep track of time but it was alot of time i used just to understand this table 
+## folder pushed
+week1/day3-tables/
