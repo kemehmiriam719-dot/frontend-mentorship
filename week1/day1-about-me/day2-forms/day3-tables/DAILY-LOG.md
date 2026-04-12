@@ -37,3 +37,16 @@ was able to understand table structure and unable to use the tables tags had to 
 was unable to keep track of time but it was alot of time i used just to understand this table 
 ## folder pushed
 week1/day3-tables/
+
+Day4 - HTML Mini Project
+Date:2026-04-12
+## what i built
+i built a 4-page personal website with navigatio.
+## what i learnt
+i learnt how to link multiple pages and structure a website
+## what confused me
+linking the pages is what i had issues with 
+## time spent
+since i was able to do the other things i was faster today basically about 50min or less
+## folder pushed
+week1/day4-html-site/
